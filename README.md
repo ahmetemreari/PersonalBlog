@@ -41,7 +41,7 @@ Bu proje, modern ve şık bir kişisel blog web sitesini içermektedir. HTML5 ve
 
 1. Repoyu klonlayın:
 ```bash
-git clone https://github.com/ahmetemreari/repo-adi.git
+git clone https://github.com/ahmetemreari/PersonalBlog.git
 ```
 
 2. İndex.html dosyasını bir web tarayıcısında açın:
